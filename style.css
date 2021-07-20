@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: azure;
+}
+.text_image_and_result{
+border-radius: 50px;
+width:40%;
+text-align: center;
+background-color: aqua;
+}
+img{
+    width: 40%;
+    
+}
